@@ -2,4 +2,4 @@
 
 Developed in Unity.
 
-![Demo Video](tinyurl.com/strategyrpgdemo)
+[Demo Video](tinyurl.com/strategyrpgdemo)
